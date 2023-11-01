@@ -1,6 +1,5 @@
 # MERN-Project
-## Description
-### Languages Used : 
+## Languages Used : JavaScript, HTML, CSS
 
 # Layout 1 : Dashbord
 ![image](https://github.com/tamil126/MERN-Project/assets/138356000/c26796a4-bea1-4f03-bd8c-6e7d167d3a61)
